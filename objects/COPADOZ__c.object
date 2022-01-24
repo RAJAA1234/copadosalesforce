@@ -155,15 +155,15 @@
     <externalSharingModel>Private</externalSharingModel>
     <label>COPADOZ</label>
     <nameField>
-        <label>COPADOZ Name</label>
+        <label>COPADssOZ Name</label>
         <type>Text</type>
     </nameField>
     <nameField>
-        <label>last</label>
+        <label>lddast</label>
         <type>Text</type>
     </nameField>
     <nameField>
-        <label>First</label>
+        <label>Firddst</label>
         <type>Text</type>
     </nameField>
     <pluralLabel>COPADOZs</pluralLabel>
