@@ -157,6 +157,9 @@
     <nameField>
         <label>COPADOZ Name</label>
         <type>Text</type>
+    </nameField><nameField>
+        <label>COPADOZ LAST</label>
+        <type>Text</type>
     </nameField>
     <pluralLabel>COPADOZs</pluralLabel>
     <searchLayouts/>
