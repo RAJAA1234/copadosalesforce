@@ -158,6 +158,14 @@
         <label>COPADOZ Name</label>
         <type>Text</type>
     </nameField>
+    <nameField>
+        <label>last</label>
+        <type>Text</type>
+    </nameField>
+    <nameField>
+        <label>First</label>
+        <type>Text</type>
+    </nameField>
     <pluralLabel>COPADOZs</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
