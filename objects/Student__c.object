@@ -156,11 +156,11 @@
     <label>Student</label>
     
     <nameField>
-        <label>Firsxsssqst Name</label>
+        <label>Firsxssqqsqst Name</label>
         <type>Text</type>
     </nameField>
     <nameField>
-        <label>Lastsss Name</label>
+        <label>Lastssssss Name</label>
         <type>Text</type>
     </nameField>
     <pluralLabel>Students</pluralLabel>
