@@ -154,16 +154,13 @@
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
     <label>Student</label>
+    
     <nameField>
-        <label>Student Name</label>
+        <label>Firsxsqst Name</label>
         <type>Text</type>
     </nameField>
     <nameField>
-        <label>First Name</label>
-        <type>Text</type>
-    </nameField>
-    <nameField>
-        <label>Last Name</label>
+        <label>Lastss Name</label>
         <type>Text</type>
     </nameField>
     <pluralLabel>Students</pluralLabel>
