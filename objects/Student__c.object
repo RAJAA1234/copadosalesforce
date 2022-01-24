@@ -162,10 +162,6 @@
         <label>First Name</label>
         <type>Text</type>
     </nameField>
-    <nameField>
-        <label>LAST Name</label>
-        <type>Text</type>
-    </nameField>
     <pluralLabel>Students</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
