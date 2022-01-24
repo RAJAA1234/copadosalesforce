@@ -158,6 +158,10 @@
         <label>Student Name</label>
         <type>Text</type>
     </nameField>
+    <nameField>
+        <label>First Name</label>
+        <type>Text</type>
+    </nameField>
     <pluralLabel>Students</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
