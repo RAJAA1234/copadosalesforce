@@ -155,15 +155,7 @@
     <externalSharingModel>Private</externalSharingModel>
     <label>COPADOZ</label>
     <nameField>
-        <label>COPADssOZ Name</label>
-        <type>Text</type>
-    </nameField>
-    <nameField>
-        <label>lddast</label>
-        <type>Text</type>
-    </nameField>
-    <nameField>
-        <label>Firddst</label>
+        <label>COPADOZ Name</label>
         <type>Text</type>
     </nameField>
     <pluralLabel>COPADOZs</pluralLabel>
